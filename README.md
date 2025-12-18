@@ -1,6 +1,13 @@
-# 🎵 Screen Sound 2.0
+# 🎵 Screen Sound
 
-Screen Sound 2.0 é uma aplicação de console desenvolvida em **C# e .NET**, com o objetivo de simular um sistema de gerenciamento musical, permitindo o cadastro de bandas, álbuns, músicas e avaliações.
+<p align="center">
+  <img src="https://github.com/BrennoBertolini/ScreenSound/blob/main/ScreenSound/image.png" alt="Screen Sound - Aplicação em execução">
+</p>
+
+Screen Sound é uma aplicação de console desenvolvida em **C# e .NET**, com o objetivo de simular um sistema de gerenciamento musical, permitindo o cadastro de bandas, álbuns, músicas e avaliações.
+
+
+Screen Sound é uma aplicação de console desenvolvida em **C# e .NET**, com o objetivo de simular um sistema de gerenciamento musical, permitindo o cadastro de bandas, álbuns, músicas e avaliações.
 
 O projeto foi criado com foco em **Programação Orientada a Objetos (POO)**, boas práticas de código e organização em camadas, sendo ideal para estudos e portfólio.
 
