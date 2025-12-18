@@ -1,0 +1,14 @@
+C:\Projetos\C#_E_NET\ProjetoMusicalTeste11\ScreenSound\ScreenSound\bin\Debug\net10.0\ScreenSound.exe
+C:\Projetos\C#_E_NET\ProjetoMusicalTeste11\ScreenSound\ScreenSound\bin\Debug\net10.0\ScreenSound.deps.json
+C:\Projetos\C#_E_NET\ProjetoMusicalTeste11\ScreenSound\ScreenSound\bin\Debug\net10.0\ScreenSound.runtimeconfig.json
+C:\Projetos\C#_E_NET\ProjetoMusicalTeste11\ScreenSound\ScreenSound\bin\Debug\net10.0\ScreenSound.dll
+C:\Projetos\C#_E_NET\ProjetoMusicalTeste11\ScreenSound\ScreenSound\bin\Debug\net10.0\ScreenSound.pdb
+C:\Projetos\C#_E_NET\ProjetoMusicalTeste11\ScreenSound\ScreenSound\obj\Debug\net10.0\ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#_E_NET\ProjetoMusicalTeste11\ScreenSound\ScreenSound\obj\Debug\net10.0\ScreenSound.AssemblyInfoInputs.cache
+C:\Projetos\C#_E_NET\ProjetoMusicalTeste11\ScreenSound\ScreenSound\obj\Debug\net10.0\ScreenSound.AssemblyInfo.cs
+C:\Projetos\C#_E_NET\ProjetoMusicalTeste11\ScreenSound\ScreenSound\obj\Debug\net10.0\ScreenSound.csproj.CoreCompileInputs.cache
+C:\Projetos\C#_E_NET\ProjetoMusicalTeste11\ScreenSound\ScreenSound\obj\Debug\net10.0\ScreenSound.dll
+C:\Projetos\C#_E_NET\ProjetoMusicalTeste11\ScreenSound\ScreenSound\obj\Debug\net10.0\refint\ScreenSound.dll
+C:\Projetos\C#_E_NET\ProjetoMusicalTeste11\ScreenSound\ScreenSound\obj\Debug\net10.0\ScreenSound.pdb
+C:\Projetos\C#_E_NET\ProjetoMusicalTeste11\ScreenSound\ScreenSound\obj\Debug\net10.0\ScreenSound.genruntimeconfig.cache
+C:\Projetos\C#_E_NET\ProjetoMusicalTeste11\ScreenSound\ScreenSound\obj\Debug\net10.0\ref\ScreenSound.dll
